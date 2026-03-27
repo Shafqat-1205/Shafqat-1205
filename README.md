@@ -42,7 +42,7 @@ My academic research focuses on the intersection of Artificial Intelligence and 
 
 <div align="center">
   <h2>📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafqat-1205&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shafqat-1205&theme=radical" alt="GitHub Profile Details" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafqat-1205&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shafqat-1205&theme=radical" alt="Top Languages" />
 </div>
