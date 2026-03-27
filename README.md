@@ -35,7 +35,7 @@ I am a software engineer and researcher passionate about leveraging data science
 
 My academic research focuses on the intersection of Artificial Intelligence and Outcome-Based Education (OBE). 
 
-* **Design and Implementation of an AI-Powered Outcome-Based Education (OBE) Management System** *Published in Springer Nature* | [[Link to Paper]](https://link.springer.com/chapter/10.1007/978-3-032-11355-9_11)
+* **Design and Implementation of an AI-Powered Outcome-Based Education (OBE) Management System** *Published in Springer Nature* | https://link.springer.com/chapter/10.1007/978-3-032-11355-9_11
 * **An Evaluation of LLM Tools for Continuous Quality Improvement in Outcome-Based Education** *Published in Springer Nature* | [[Link to Paper]](https://link.springer.com/chapter/10.1007/978-3-032-11352-8_33)
 
 ---
