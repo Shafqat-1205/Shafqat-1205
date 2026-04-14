@@ -12,7 +12,7 @@ I am a software engineer and researcher passionate about leveraging data science
 
 - 🔭 **Currently working on:** Developing scalable web platforms (including a comprehensive e-commerce solution) and researching AI-driven educational tools.
 - 🌱 **Currently exploring:** Advanced Natural Language Processing (NLP), Deep Learning architectures, and SaaS product development.
-- 📫 **How to reach me:** rahmanshafqatur@gmail.com | [[LinkedIn]](https://www.linkedin.com/in/shafqatur-rahman-26ab7b18b/)
+- 📫 **How to reach me:** rahmanshafqatur@gmail.com | [[LinkedIn]](https://www.linkedin.com/in/shafqatur-rahman-26ab7b18b/) | [[Facebook]](https://www.facebook.com/shafqat1205/)
 
 ---
 
