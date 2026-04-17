@@ -27,7 +27,7 @@ I am a software engineer and researcher passionate about leveraging data science
 - Machine Learning & Deep Learning
 - Natural Language Processing (NLP)
 - Data Analysis & Predictive Modeling
-- Tools: TensorFlow, PyTorch, transformers, Keras, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, and OpenCV
+- Tools: TensorFlow, PyTorch, Captum, Transformers, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, and OpenCV
 
 ---
 
