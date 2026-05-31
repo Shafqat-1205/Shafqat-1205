@@ -20,7 +20,8 @@ I am a software engineer and researcher passionate about leveraging data science
 
 ### **Languages & Frameworks**
 - **Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript, PHP, Dart, and Assembly (8086)
-- **Frameworks & Tools:** Laravel, React, Node.js, Express.js, Next.js, Nest.js Flutter, QT, Bootstrap, Tailwind
+- **Frontend:** React, Next.js, Flutter, QT, Bootstrap, Tailwind
+- **Backend:** Laravel, Node.js, Express.js, Nest.js
 - **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
 
 ### **AI & Data Science**
